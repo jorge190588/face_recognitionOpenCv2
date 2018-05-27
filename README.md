@@ -21,6 +21,7 @@ Crear dataset para entrenamiento
 
 * Verificar que las imágenes creadas por dataset.py estén en la carpeta indicada en el paso anterior.
 
+* La carpeta images ya contiene algunas imágenes, si va a utilizarlas debe descomprimir los archivos zip dentro de cada carpeta
 
 Crear archivo entrenamiento.yml y labels.pickle
 
